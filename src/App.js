@@ -11,7 +11,7 @@ function App() {
 		  
         </p>
 		<p>Konstantinos P. Anastasiadis</p>
-		<p>Οι γονείς μου είναι ο Παναγιώτης και η Ζωή Αναστασιάδου</p>
+		<p>Οι γονείς μου είναι ο Παναγιώτης και η Ζωή Αναστασιάδου, SAE</p>
 		<p>React - cd mysecondreact</p>
         <a
           className="App-link"
