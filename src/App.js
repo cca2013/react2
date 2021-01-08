@@ -20,7 +20,7 @@ function App() {
 		<p>
 		 <a
           className="App-link"
-          href="https://github/cca2013/react2"
+          href="https://github.com/cca2013/react2"
           target="_blank"
           rel="noopener noreferrer"
         >
